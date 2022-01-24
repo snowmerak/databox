@@ -1,10 +1,10 @@
-# intogo
+# databox
 
-`intogo` is a tool converting file or directory to byte buffer and storing in go file.
+`databox` is a tool converting file or directory to byte buffer and storing in go file.
 
 ## install
 
-`go install github.com/snowmerak/intogo@latest`
+`go install github.com/snowmerak/databox@latest`
 
 ## how to use
 
