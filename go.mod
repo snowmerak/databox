@@ -1,6 +1,6 @@
-module github.com/snowmerak/intogo
+module github.com/snowmerak/databox
 
-go 1.18
+go 1.16
 
 require gopkg.in/alecthomas/kingpin.v2 v2.2.6
 
