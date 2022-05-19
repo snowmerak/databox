@@ -8,7 +8,7 @@
 
 ## how to use
 
-`intogo <target-directory-or-file> <package-name> <variable-name>`
+`databox <target-directory-or-file> <package-name> <variable-name>`
 
 1. read all target-directory-or-file and that's sub directorys and files to buffer
 2. create ./package-name/variable-name.go
